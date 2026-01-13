@@ -87,5 +87,5 @@ The HR Analytics Dashboard provides a detailed overview of employee demographics
 This HR Analytics Dashboard delivers actionable insights into employee attrition patterns, demographics, and job roles, empowering organizations to proactively address retention challenges and optimize workforce planning.
 
 
-
+ Screenshots / Demos Example : [ Dashboard Preview] :- (https://github.com/borawakeprem/HR-ANALYTICS-DASHBOARD/blob/main/HR%20ANALYTICS%20DASHBOARD%20Screenshot.png)
 
